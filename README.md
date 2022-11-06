@@ -1,8 +1,8 @@
 # Install Artifactory in Amazon Linux2 ec2 instance.
 
 ## Pre-requisites:
-create an ec2 instance with below
-    - T2.small EC2 instance (Linux)
+create an linux ec2 instance with the following
+    - T2.small
     - Open port 8081---->in the security group
     - Install Java
 
